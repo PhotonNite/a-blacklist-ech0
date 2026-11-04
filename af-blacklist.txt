@@ -2,6 +2,8 @@ ampproject.org
 ampproject.net
 bing-amp.com
 bing-amp.net
+amp.bing.com
+amp.yahoo.com
 amp.cloudflare.com
 amp.dev
 cloudflareamp.net
