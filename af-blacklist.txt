@@ -17,6 +17,7 @@ marketing-sections.gog.com
 insights-collector.gog.com
 userlocation.googleapis.com
 locationhistory-pa.googleapis.com
+googletagmanager.com
 getpocket.com
 tiles.services.mozilla.com
 experiments.mozilla.org
