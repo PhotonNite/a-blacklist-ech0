@@ -37,7 +37,9 @@ contile.services.mozilla.com
 merino.services.mozilla.com
 topsites.services.mozilla.com
 maps.windows.com
+settings.data.microsoft.com
 settings-win.data.microsoft.com
+settings-win-ppe.data.microsoft.com
 mumuplayer.com
 mumuglobal.com
 easebar.com
