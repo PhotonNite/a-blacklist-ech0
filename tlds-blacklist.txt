@@ -283,6 +283,7 @@ wine
 work
 world
 wtf
+wiki
 xin
 xx.kg
 yachts
