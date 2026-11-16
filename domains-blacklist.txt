@@ -18,7 +18,6 @@ insights-collector.gog.com
 userlocation.googleapis.com
 locationhistory-pa.googleapis.com
 googletagmanager.com
-metric.gstatic.com
 ads.mozilla.org
 getpocket.com
 telemetry.mozilla.org
